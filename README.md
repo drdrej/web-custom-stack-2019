@@ -5,6 +5,8 @@ Stack to develop business WPA's with java & js.
 
 ## Frontend
 
+Client is Browser-based in JS imolemented Application.
+
 * Material UI
 * React 
 * Fastify
